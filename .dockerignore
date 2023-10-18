@@ -1,0 +1,4 @@
+node_modules/
+npm-debug.log
+
+# node_modules/ adding the slash will ignore the folder and its contents
